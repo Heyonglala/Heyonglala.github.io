@@ -1,0 +1,42 @@
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, input, th, td
+{margin: 0; padding: 0; border: 0; outline: none;}
+body {	font-family: "宋体";font-size: 12px;color:#000000;line-height: 20px;text-align:left;}
+td,th {font-family: "宋体";font-size: 14px;color: #FFF;}
+a {color: #000000;} 
+A:link {TEXT-DECORATION: none;}
+A:visited {TEXT-DECORATION: none;}
+ul,li{list-style-type:none;}
+.clearit{clear:both;}
+
+
+.da {width:1000px; margin:0 auto;}
+.ban {width:1000px; height:286px;}
+.nav {width:1000px; height:50px; background:#010101; border-bottom:1px solid #FFF}
+.nav li {width:200px; float:left; text-align:center; line-height:50px;}
+.nav li a { color:#FFF; font-size:16px; font-weight:bold; width:200px; height:50px; display:block}
+.nav li  A:hover{ background:#3e3e3e;}
+.xia { width:1000px; height:300px;  background:#070506;}
+.xia p { color:#FFF; font-size:16px; line-height:30px; margin-left:140px; padding-top:20px;}
+.xia p  samp { color:#666; font-size:14px}
+.yi {width:1000px; height:570px;}
+.foot {width:1000px; height:60px; background:#010101; border-top:1px solid #FFF; text-align:center; line-height:60px; color:#FFF; font-size:16px; font-weight:bold; }
+.er { width:1000px;  background:#060405;}
+.er h2 { text-align:center; padding-top:20px;}
+.zi {width:960px; padding:20px; line-height:30px;}
+.zi p { color: #FFF; font-size:14px; text-indent:2em;}
+.tu {text-align:center;}
+.qi {width:960px; padding:20px;}
+.qi table{border-collapse:collapse;}
+.qi td {border:1px solid #FFF; color:#FFF; padding:5px; text-align:center; line-height:30px;}
+.kai { letter-spacing:2px; font-size:16px; font-weight:600;}
+.qi samp {  color:#f8fe46}
+.san {color:#CCC; font-size:16px; text-align:center; line-height:30px; margin-top:10px;}
+.si {text-align:center;}
+.wu {color: #FFF; font-size:28px; text-align:center;line-height:30px; }
+.yao ul {width:900px; margin:0 auto;}
+.yao li {width:300px; float:left; text-align:center; line-height:25px; color:#FFF}
+.yao  samp {color: #FFF; font-size:28px; }
+.yao  sanp {color:#CCC; font-size:16px;}
+.yu li {width:500px; float:left;}
+.liu {text-align:center;}
